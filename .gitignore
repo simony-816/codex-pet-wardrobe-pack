@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+
+# Keep public releases free of source screenshots, raw prompts, and private experiments.
+source-official/
+references/
+raw/
+work-in-progress/
+*.psd
+*.clip
+*.kra
+
+# Local build output is reproducible from the checked-in script.
+*.tmp

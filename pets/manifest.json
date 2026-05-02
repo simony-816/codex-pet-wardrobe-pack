@@ -1,0 +1,10 @@
+{
+  "pets": [
+    {
+      "id": "thorny-daily-v1",
+      "folder": "thorny-daily-v1",
+      "displayName": "Thorny Daily v1",
+      "spritesheetPath": "spritesheet.webp"
+    }
+  ]
+}
