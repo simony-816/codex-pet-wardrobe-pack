@@ -5,6 +5,12 @@
       "folder": "thorny-daily-v1",
       "displayName": "Thorny Daily v1",
       "spritesheetPath": "spritesheet.webp"
+    },
+    {
+      "id": "thorny-shadow-v1",
+      "folder": "thorny-shadow-v1",
+      "displayName": "Thorny Shadow v1",
+      "spritesheetPath": "spritesheet.webp"
     }
   ]
 }

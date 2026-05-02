@@ -15,7 +15,7 @@ The safest public release is one that avoids official artwork, screenshots, name
 
 ## What This Repository Does To Reduce Risk
 
-- Uses a neutral public package name: `thorny-daily-v1`.
+- Uses neutral public package names: `thorny-daily-v1` and `thorny-shadow-v1`.
 - Excludes official screenshots, reference captures, and source prompts from the public package.
 - Keeps the included assets as small Codex pet sprites rather than full-resolution art.
 - Does not include a permissive asset license by default.
